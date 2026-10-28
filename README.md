@@ -20,6 +20,17 @@
 
 ## 🤝 贡献与致谢
 这套方案是在无数开源前辈的肩膀上摸索出来的。如果你在使用的过程中踩了新的坑，或者有更好的优化方案，非常欢迎提交 Issue 或 Pull Request！
-一个人踩是坑，写出来就是路。
+- **dsh-world** —— [@chenkezhen480](https://github.com/chenkezhen480)。  
+  它把「近期原文 + 日记 + 自述 + 全量归档」这件事做成了插件，  
+  我们只是把参数调到了 80 轮、把路径按自己的审美排了一遍。没有它，这篇不用写。
+- **meow-memory** —— [@Phant0Meow](https://github.com/Phant0Meow)。  
+  七层记忆 + 中文 BM25 + 夜里做梦整理，一个人把工程记忆做到了这个份上，很夸张。
+- **billion-context** —— [@ranxianglei](https://github.com/ranxianglei)。  
+  长会话能一直开下去，靠它压上下文。
+- **@paicat1/dsh-screenshot** —— 快捷键截图那条路是它铺的。
+- **hindsight（Vectorize）** —— 官方记忆路线，教会我们「检索层 ≠ 记忆结构」。
+- **DeepSeek** —— 模型和 DeepSeek Harness。人设能稳住，一半功劳在模型对长人设的服从度。
+- 还有 **dshbase 插件目录** 与 GitHub discussions 里那些「我先踩了」的人——  
+  插件名和坑位，多半是从那里抄来的。一个人踩是坑，写出来就是路。
 
 *Made with ❤️ by 大猫和他的宝贝鱼*
